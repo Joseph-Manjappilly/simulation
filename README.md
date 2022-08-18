@@ -60,8 +60,9 @@ source /usr/share/gazebo/setup.sh
 ## UPDATE BY JOSEPH MANJAPPILLY (josjoy94@gmail)
 
 # Localization of Unmanned Aerial Vehicles in Forestry Robotics Applications
-![image1](https://user-images.githubusercontent.com/109359404/183971029-e006f5cd-e4b3-4088-b010-5fbbb5c0e968.png)
-Sushmitha Bhagya Sashi (sushmithabhagya27@gmail.com)
+![image1]![maxresdefault](https://user-images.githubusercontent.com/109303218/185431260-1a95025a-acf2-417f-b669-e7bac7c612e1.jpg)
+
+JOSEPH MANJAPPILLY (josjoy94@gmail)
 
 # Unmanned Aerial Vehicle
 
